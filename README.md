@@ -1,5 +1,7 @@
 # Student Enrollment Form using JsonPowerDB
 
+> **Note:** To run this project, generate your **Connection Token** from your [JsonPowerDB Developer Account](https://login2explore.com/login2xploreLogin.html) and replace the value of `connToken` in the `js/index.js` file.
+
 ## 📌 Description
 This is a **micro-project** built using **HTML, CSS, JavaScript**, and **JsonPowerDB (JPDB)**. It demonstrates how to perform **real-time CRUD operations** using a RESTful API, without the need for any backend scripting or server setup.
 
