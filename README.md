@@ -7,6 +7,11 @@ This is a **micro-project** built using **HTML, CSS, JavaScript**, and **JsonPow
 
 This project simulates a **Student Enrollment System**, where you can Save, Update, and Reset student data. It validates entries and uses JPDB to store and fetch student records based on the primary key `Roll No`.
 
+## 🔗 Live Demo
+
+👉 [Click here to view the deployed project](https://yashjain-04.github.io/student-enrollment-form/)
+
+
 ---
 
 ## 📈 Benefits of using JsonPowerDB
