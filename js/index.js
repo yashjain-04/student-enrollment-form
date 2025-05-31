@@ -7,9 +7,13 @@
 var jpdbBaseUrl = "http://api.login2explore.com:5577";
 var jpdbIML = "/api/iml";
 var jpdbIRL = "/api/irl";
-var connToken = "90934601|-31949211987306539|90956794";
+var connToken = "YOUR_CONNECTION_TOKEN";
 var jpdbDBName = "Student Enrollment"
 var jpdbRelName = "Students"
+
+if (connToken === "YOUR_CONNECTION_TOKEN") {
+    alert("Please enter your JsonPowerDB Connection Token in the 'connToken' variable before using the form.\n\nWithout it, data cannot be saved or fetched from JPDB.");
+}
         
 $("#stId").focus();
 
